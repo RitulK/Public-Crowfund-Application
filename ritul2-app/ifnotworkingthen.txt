@@ -1,0 +1,7 @@
+run these when any route, file is working or opening:
+"
+php artisan route:clear
+php artisan view:clear
+php artisan config:clear
+php artisan cache:clear
+                        "
